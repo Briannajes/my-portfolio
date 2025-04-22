@@ -1,0 +1,21 @@
+.footer {
+    background-color: #f9eae1;
+    color: #5e4b3c;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-top: 2px solid #e0d4ca;
+    margin-top: 50px;
+  }
+  
+  .social-links a {
+    margin: 0 10px;
+    color: #5e4b3c;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .social-links a:hover {
+    text-decoration: underline;
+  }
+  

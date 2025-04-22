@@ -1,0 +1,54 @@
+.about-container {
+    background-color: #fff9f5;
+    color: #5a4b4b;
+    padding: 50px;
+    font-family: 'Georgia', serif;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  .about-container h1 {
+    font-size: 36px;
+    color: #7c6a6a;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .bio {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+    text-align: center;
+  }
+  
+  .about-sections {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+  }
+  
+  .about-card {
+    background-color: #fdf0e7;
+    padding: 25px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(124, 106, 106, 0.1);
+    width: 300px;
+  }
+  
+  .about-card h2 {
+    font-size: 24px;
+    color: #8c7363;
+    margin-bottom: 15px;
+  }
+  
+  .about-card ul {
+    list-style-type: '⚪️ ';
+    padding-left: 20px;
+  }
+  
+  .about-card li {
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
