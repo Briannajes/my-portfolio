@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  background- color: #F6F1E9;
+  color: #6B4F4F
+}
 .App {
   text-align: center;
 }
