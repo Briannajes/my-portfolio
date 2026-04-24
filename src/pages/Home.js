@@ -4,22 +4,25 @@ import '../styles/Home.css';
 import flowersImg from '../assets/flowers.jpg';
 
 function Home() {
-  const backgroundStyle = {
+ return (
+   className="home-container"
+   style={{
     backgroundImage: `url(${flowersImg})`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat',
     minHeight: '100vh',
-  };
-
-  return (
-    <div className="home-container" style={backgroundStyle}>
+  }}
+>
+  <div className="home-overlay">
+  
       <header className="home-header">
         <div className="home-header-box">
           <h1>Welcome to my little portfolio</h1>
           <p>A small glimpse into who I am and the work I have done for this class</p>
         </div>
       </header>
+  
       <main className="home-main">
       <div className="home-box">
         <p className="home-description">
