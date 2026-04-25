@@ -8,19 +8,19 @@ function Projects() {
       title: 'React Exercise App',
       description: 'A basic outline of an exercise app in which repition and duration exercises are present. Allows users to count intervals and start a timer.',
       image: '/images/weather-app.png',
-      link: 'https://github.com/Briannajes/School.git'
+      link: 'https://github.com/Briannajes/School'
     },
     {
       title: 'React Menu App',
       description: 'A basic startup of a resturant menu included buttons to add item to cart, the price and description of the items.',
       image: '/images/journal-app.png',
-      link: 'https://github.com/Briannajes/menu-app/tree/6c8597e379bb266b7f5abf8f6e7702cba748887c/menu-app'
+      link: 'https://github.com/Briannajes/menu-app'
     },
     {
       title: 'Expo ToDo List',
       description: 'An interface that allows users to add tasks and mark off ones that are complete.',
       image: '/images/plantpal-app.png',
-      link: 'https://github.com/Briannajes/Todo'
+      link: 'https://github.com/Briannajes/TODOLIST'
     }
   ];
 
