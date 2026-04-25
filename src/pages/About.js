@@ -7,7 +7,7 @@ function About() {
     <div className="about-container">
       <h1>About Me </h1>
       <p className="bio">
-        Hi! I'm Brianna Jesionowski — a 4th year Digital Media student at the University of Central Florida. I have always had a passion for content, social media and the internet which has led me to learning web design, graphic design and content creation. I have 1 year left of my studies here at UCF and my goal is to become a creative freelancer in which I will be able to manage my photogrpahy, social media mangements, graphic design, web design and content creation.
+        Hi! I'm Brianna Jesionowski — a graduating with my Bachleors of Digital Media  at the University of Central Florida in a few short weeks. I have always had a passion for content, social media and the internet which has led me to learning web design, graphic design and content creation. My goal after graduation is to become a creative freelancer in which I will be able to manage my own photography, graphic design, web design and content creation.
       </p>
 
       <div className="about-sections">
